@@ -1,0 +1,5 @@
+# configs/data.yaml
+# Placeholder configuration for data ingestion
+raw_path: ./data/raw
+interim_path: ./data/interim
+processed_path: ./data/processed
